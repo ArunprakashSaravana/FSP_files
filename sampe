@@ -1,8 +1,12 @@
 hai this file has be create for git merge conflicts
 
-ok you dont migrate any codes
+
+
  
- ama dda na ea istam pola tha irupea unala enaa panna mudium mo paniko .get last
+
 
 Why is Git not allowing me to fast forward merge anymore? If I try to force it using --ff-only, I get the message "fatal: Not possible to fast-forward, aborting." I realize that there are huge advantages to merge --no-ff, but I'm just puzzled why I can't --ff-only now?
+=======
+Why is Git not allowing me to fast forward merge anymore? If I try to force it using --ff-only, I get the message "fatal: Not possible to fast-forward, aborting." I realize that there are huge advantages to merge --no-ff, but I'm just puzzled why I can't --ff-only now?
+
 
